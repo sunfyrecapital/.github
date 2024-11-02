@@ -10,7 +10,7 @@ Investment Services: We offer investment products and platforms that help our cl
 
 🌱 Get Involved:
 
-Interested in contributing? We welcome developers, designers, and financial enthusiasts to help us build next-generation financial tools. Check out our contribution guidelines in our repo to learn how you can get involved.
+Interested in contributing? We welcome developers, designers, and financial enthusiasts to help us build next-generation financial tools. Email us @ sunfyrecapital@gmail.com
 
 💡 Fun Fact:
 
